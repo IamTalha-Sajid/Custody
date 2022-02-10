@@ -1,0 +1,41 @@
+Deploying 'PAXToken'
+   --------------------
+   > transaction hash:    0xfcb878eb3ef4387956f36e9dd4a43a8b8dd09b6e4a365be95f286b3c1a656ad9
+   > Blocks: 2            Seconds: 29
+   > contract address:    0x8dEa49B3233eF4e087f0748099Bdb96a073B9d89
+   > block number:        6349321
+   > block timestamp:     1644416852
+   > account:             0x4bb07C043A7EAAC58E7bba0A0451CC7A4a464dBb
+   > balance:             0.884888464952961962
+   > gas used:            1114027 (0x10ffab)
+   > gas price:           2.500000007 gwei
+   > value sent:          0 ETH
+   > total cost:          0.002785067507798189 ETH
+   
+  Deploying 'USDCToken'
+   ---------------------
+   > transaction hash:    0x7e1ede13d790dd4d1354941da863b0625b434aea0283caa8414e81cef425409c
+   > Blocks: 1            Seconds: 9
+   > contract address:    0xC1ea026e45bfc6304FE0310D6C31e6594D484995
+   > block number:        6349325
+   > block timestamp:     1644416912
+   > account:             0x4bb07C043A7EAAC58E7bba0A0451CC7A4a464dBb
+   > balance:             0.882031884944963538
+   > gas used:            1114003 (0x10ff93)
+   > gas price:           2.500000007 gwei
+   > value sent:          0 ETH
+   > total cost:          0.002785007507798021 ETH
+   
+   Deploying 'USDTToken'
+   ---------------------
+   > transaction hash:    0x5093a58a2cfcd5de920d4a609133192db22525dfa37accbec21fed8c5c4219b3
+   > Blocks: 1            Seconds: 24
+   > contract address:    0xB07DCa38f6aaF58522e9dbBe94Fe249B77FBc106
+   > block number:        6352935
+   > block timestamp:     1644471065
+   > account:             0x4bb07C043A7EAAC58E7bba0A0451CC7A4a464dBb
+   > balance:             0.878548714933846023
+   > gas used:            1114051 (0x10ffc3)
+   > gas price:           2.500000008 gwei
+   > value sent:          0 ETH
+   > total cost:          0.002785127508912408 ETH

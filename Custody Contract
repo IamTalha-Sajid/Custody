@@ -1,0 +1,15 @@
+ Deploying 'custodyn'
+   --------------------
+   > transaction hash:    0x555ed7508f2e32bde04e785b34da7eab3c4ed22ead57d7d7e6632dba3378ba15
+   > Blocks: 1            Seconds: 16
+   > contract address:    0x73111a75Da426f7dbCB022a2C0Fd1D2C89EB514B
+   > block number:        6348284
+   > block timestamp:     1644401290
+   > account:             0x4bb07C043A7EAAC58E7bba0A0451CC7A4a464dBb
+   > balance:             0.298861382496561283
+   > gas used:            3135722 (0x2fd8ea)
+   > gas price:           2.500000008 gwei
+   > value sent:          0 ETH
+   > total cost:          0.007839305025085776 ETH
+   
+   
